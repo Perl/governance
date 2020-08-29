@@ -4,53 +4,70 @@
 
 They were given the choices of:
 
-1. active
-2. present
-3. please remove
+1. active - I'm reading this list and thus an active member
+2. present - I'm a member, but need more time to catchup on discussion. And cannot consider myself as 'active'
+3. please unsubscribe me
 
-* Aaron Crane - **active**
-* Abhijit Menon-Sen - **active**
-* Andy Dougherty - **active**
-* Artur Bergman - **present**
+## "I'm an active member"
+
+> I'm reading this list and thus an active member
+
+* Aaron Crane
+* Abhijit Menon-Sen
+* Andy Dougherty
+* brian d foy
+* Chad Granum
+* Chris "bingos" Williams
+* David Golden
+* Dominic Hargraeves
+* Graham Barr
+* H. Merijn Brand
+* Dagfinn Ilmari Mannsåker
+* James Keenan
+* Jan Dubois
+* Jesse Vincent
+* John Lightsey
+* Karen Etheridge
+* Karl Williamson
+* Leon Timmermans
+* Matthew Horsfall
+* Max Maischein
+* Nicolas R.
+* Paul "LeoNerd" Evans
+* Rafael Garcia-Suarez
+* Ricardo Signes
+* Robert Spier
+* Sawyer X
+* Steve Hay
+* Steve Peters
+* Todd Rinaldo
+* Tony Cook
+
+# "I'm here"
+
+> I'm a member, but need more time to catchup on discussion. And cannot
+> consider myself as 'active'
+
+* Artur Bergman
+* Chip Salzenberg
+* Dave Mitchell
+* Nicholas Clark
+* Slaven Rezic
+* Tim Bunce
+
+# No reply … but have posted actively other times
+
+* Craig Berry
+* Hugo van der Sanden
+* Philippe "BooK" Bruhat
+* Yves Orton
+
+# No Reply
+
 * Ask Bjørn Hansen
-* brian d foy - **active**
-* Chad Granum - **active**
-* Chip Salzenberg - **present**
-* Chris "bingos" Williams - **active**
-* Craig Berry - ⚠️ no reply, but has posted on perl-core
-* Dave Mitchell - **present**
-* David Golden - **active**
-* Dominic Hargraeves - **active**
 * Gisle Aas
-* Graham Barr - **active**
-* H. Merijn Brand - **active**
-* Hugo van der Sanden - ⚠️ no reply, but has posted on perl-core
-* Dagfinn Ilmari Mannsåker - **active**
-* James Keenan - **active**
-* Jan Dubois - **active**
-* Jesse Vincent - **active**
-* John Lightsey - **active**
-* Karen Etheridge - **active**
-* Karl Williamson - **active**
 * Leon Brocard
-* Leon Timmermans - **active**
 * Marcus Holland-Moritz
-* Matthew Horsfall - **active**
-* Max Maischein - **active**
-* Nicholas Clark - **present**
-* Nicolas R. - **present** (implicit)
-* Paul "LeoNerd" Evans - **active**
-* Philippe "BooK" Bruhat - ⚠️ no reply, but has posted on perl-core
-* Rafael Garcia-Suarez - **active**
-* Ricardo Signes - **active**
-* Robert Spier - **active**
-* Sawyer X - **active**
-* Slaven Rezic - **present**
 * Steffen Mueller
-* Steve Hay - **active**
-* Steve Peters - **active**
 * Stuart Mackintosh
-* Tim Bunce - **present**
-* Todd Rinaldo - **active**
-* Tony Cook - **active**
-* Yves Orton - ⚠️ no reply, but has posted on perl-core
+
