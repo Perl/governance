@@ -8,6 +8,8 @@ They were given the choices of:
 2. present - I'm a member, but need more time to catchup on discussion. And cannot consider myself as 'active'
 3. please unsubscribe me
 
+Rik rounded any "well, halfway between" response to the more-active option.
+
 ## "I'm an active member"
 
 > I'm reading this list and thus an active member
@@ -19,7 +21,7 @@ They were given the choices of:
 * Chad Granum
 * Chris "bingos" Williams
 * David Golden
-* Dominic Hargraeves
+* Dominic Hargreaves
 * Graham Barr
 * H. Merijn Brand
 * Dagfinn Ilmari Mannsåker
@@ -42,6 +44,7 @@ They were given the choices of:
 * Steve Peters
 * Todd Rinaldo
 * Tony Cook
+* Yves Orton
 
 # "I'm here"
 
@@ -60,7 +63,6 @@ They were given the choices of:
 * Craig Berry
 * Hugo van der Sanden
 * Philippe "BooK" Bruhat
-* Yves Orton
 
 # No Reply
 
