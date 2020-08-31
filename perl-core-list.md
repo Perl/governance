@@ -1,5 +1,6 @@
 # Members of Gov-BEGIN who requested to stay in perl-core
 
+* Abhijit Menon-Sen
 * Chad Granum
 * Craig Berry
 * Dave Mitchell
@@ -9,6 +10,7 @@
 * Jan Dubois
 * Jesse Vincent
 * Leon Timmermans
+* Matthew Horsfall
 * Ricardo Signes
 * Steve Hay
 * Tony Cook
