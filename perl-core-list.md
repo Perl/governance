@@ -14,3 +14,4 @@
 * Ricardo Signes
 * Steve Hay
 * Tony Cook
+* Nicolas R.
