@@ -52,6 +52,7 @@ Rik rounded any "well, halfway between" response to the more-active option.
 > consider myself as 'active'
 
 * Artur Bergman
+* Ask Bjørn Hansen
 * Chip Salzenberg
 * Dave Mitchell
 * Nicholas Clark
@@ -66,7 +67,6 @@ Rik rounded any "well, halfway between" response to the more-active option.
 
 # No Reply
 
-* Ask Bjørn Hansen
 * Gisle Aas
 * Leon Brocard
 * Marcus Holland-Moritz
