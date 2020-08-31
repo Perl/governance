@@ -11,6 +11,7 @@
 * Jesse Vincent
 * Leon Timmermans
 * Matthew Horsfall
+* Nicolas R.
 * Ricardo Signes
 * Steve Hay
 * Tony Cook
