@@ -9,6 +9,7 @@
 * James E Keenan
 * Jan Dubois
 * Jesse Vincent
+* Karl Williamson
 * Leon Timmermans
 * Matthew Horsfall
 * Nicolas R.
