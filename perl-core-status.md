@@ -56,6 +56,7 @@ Rik rounded any "well, halfway between" response to the more-active option.
 * Chip Salzenberg
 * Dave Mitchell
 * Nicholas Clark
+* Philippe "BooK" Bruhat
 * Slaven Rezic
 * Tim Bunce
 
@@ -63,7 +64,6 @@ Rik rounded any "well, halfway between" response to the more-active option.
 
 * Craig Berry
 * Hugo van der Sanden
-* Philippe "BooK" Bruhat
 
 # No Reply
 
