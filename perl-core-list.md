@@ -16,3 +16,4 @@
 * Ricardo Signes
 * Steve Hay
 * Tony Cook
+* Todd Rinaldo
