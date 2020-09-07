@@ -51,6 +51,7 @@ Rik rounded any "well, halfway between" response to the more-active option.
 > I'm a member, but need more time to catchup on discussion. And cannot
 > consider myself as 'active'
 
+* Andreas Koenig
 * Artur Bergman
 * Ask Bjørn Hansen
 * Chip Salzenberg
