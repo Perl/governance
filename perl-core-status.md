@@ -67,9 +67,12 @@ Rik rounded any "well, halfway between" response to the more-active option.
 * Craig Berry
 * Hugo van der Sanden
 
-# No Reply
+# Please remove me
 
 * Gisle Aas
+
+# No Reply
+
 * Leon Brocard
 * Steffen Mueller
 * Stuart Mackintosh
