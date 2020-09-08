@@ -56,6 +56,7 @@ Rik rounded any "well, halfway between" response to the more-active option.
 * Ask Bjørn Hansen
 * Chip Salzenberg
 * Dave Mitchell
+* Marcus Holland-Moritz
 * Nicholas Clark
 * Philippe "BooK" Bruhat
 * Slaven Rezic
@@ -70,7 +71,6 @@ Rik rounded any "well, halfway between" response to the more-active option.
 
 * Gisle Aas
 * Leon Brocard
-* Marcus Holland-Moritz
 * Steffen Mueller
 * Stuart Mackintosh
 
