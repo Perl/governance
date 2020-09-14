@@ -7,6 +7,7 @@
 * Dave Mitchell
 * David Golden
 * H. Merijn Brand
+* Hugo van der Sanden
 * James E Keenan
 * Jan Dubois
 * Jesse Vincent
