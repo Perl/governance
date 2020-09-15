@@ -12,6 +12,7 @@
 * Jan Dubois
 * Jesse Vincent
 * Karl Williamson
+* Karen Etheridge
 * Leon Timmermans
 * Matthew Horsfall
 * Nicolas R.
