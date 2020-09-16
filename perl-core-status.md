@@ -60,6 +60,7 @@ Rik rounded any "well, halfway between" response to the more-active option.
 * Nicholas Clark
 * Philippe "BooK" Bruhat
 * Slaven Rezic
+* Stuart Mackintosh
 * Tim Bunce
 
 # No reply … but have posted actively other times
@@ -75,5 +76,4 @@ Rik rounded any "well, halfway between" response to the more-active option.
 
 * Leon Brocard
 * Steffen Mueller
-* Stuart Mackintosh
 
