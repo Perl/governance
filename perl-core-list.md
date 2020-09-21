@@ -16,6 +16,7 @@
 * Leon Timmermans
 * Matthew Horsfall
 * Nicolas R.
+* Philippe "BooK" Bruhat
 * Ricardo Signes
 * Sawyer X
 * Steve Hay
