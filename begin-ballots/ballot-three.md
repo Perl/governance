@@ -1,5 +1,5 @@
-A:  We will collect proposals for complete government constitutions and vote on
-    those.
+**A:**  We will collect proposals for complete government constitutions and
+        vote on those.
 
 * We will have a period of two weeks in which to propose governments.  Anyone
   on the list may propose a constitution, and may amend their proposal at will.
@@ -10,8 +10,8 @@ A:  We will collect proposals for complete government constitutions and vote on
   publish them, and conduct a preferential ballot between them, with a one
   week voting limit.
 
-B:  We should conduct a series of ballots on the individual questions of
-    governance to be answered.
+**B:**  We should conduct a series of ballots on the individual questions of
+        governance to be answered.
 
 * I will begin a series of votes to progress us through the questions above.
 * Each ballot will answer one or more of the questions above, chosen and
@@ -26,11 +26,11 @@ B:  We should conduct a series of ballots on the individual questions of
   meet the requirements voted on over the course of the ballots for the above
   questions.
 
-C:  We will collect proposals for rules of order for the gov-begin list
-    discussions and vote for the rules under which we shall proceed. This
-    process shall be conducted under the same terms as option A.
+**C:**  We will collect proposals for rules of order for the gov-begin list
+        discussions and vote for the rules under which we shall proceed. This
+        process shall be conducted under the same terms as option A.
 
-D:  We affirm our confidence in the current leadership and structure of the
-    Perl project governance. The proceedings of the gov-begin list are
-    concluded.
+**D:**  We affirm our confidence in the current leadership and structure of the
+        Perl project governance. The proceedings of the gov-begin list are
+        concluded.
 
