@@ -20,19 +20,21 @@ The following questions remain to be answered:
   All proposals will be submitted by GitHub pull request, details to be
   determined.
 
-* At the end of the two weeks, I will take a snapshot of all proposals,
-  publish them, and conduct a preferential ballot between them, with a one
-  week voting limit.
+* At the end of the two weeks, the gov-begin moderator will take a snapshot of
+  all proposals, publish them, and conduct a preferential ballot between them,
+  with a one week voting limit.
 
 **B:**  We will conduct a series of ballots on the individual questions of
         governance to be answered.
 
-* I will begin a series of votes to progress us through the questions above.
+* The gov-begin moderator will begin a series of votes to progress us through
+  the questions above.
 * Each ballot will answer one or more of the questions above, chosen and
   grouped at my discretion.
 * For each ballot, there will be a one week period to submit ballot options.
-  Any option proposed and seconded by members of the list will be present.  (I
-  will provide strict rules to make clear how one alters their proposal.)
+  Any option proposed and seconded by members of the list will be present.
+  (The gov-begin moderator will provide strict rules to make clear how one
+  alters their proposal.)
 * Following the one week period to submit options, there will be a four day
   voting period.
 * At the end of the series of decisions, we will proceed to gather and vote on
