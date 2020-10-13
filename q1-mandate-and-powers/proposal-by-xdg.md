@@ -2,7 +2,8 @@
 
 ## Preamble
 
-We are forming a system of governance for what is now called perl5.git.
+We are forming a system of governance for development of the Perl programming
+language.
 
 The scope of governance includes the language definition, its
 implementation, its test suite, its documentation, and the policies and
@@ -16,8 +17,8 @@ In forming a system of governance, we seek to achieve the following goals:
 
 - We want a system that is functional.  That means the governing groups
   may decide to undertake large changes, or they may decide to act
-  conservatively, but they will act with intent and clear communication,
-  rather than by deadlocking or warnocking on decisions.
+  conservatively, but they will act with intent and clear communication
+  rather than fail to reach decisions when needed.
 
 - We want a system that is trusted. That means that a reasonable
   contributor to Perl might disagree with decisions made by the governing
@@ -85,7 +86,7 @@ language itself.  These include, but are not limited to:
 
 - CPAN administration and CPAN authors
 
-- perl.org, metacpan.org, and other community-maintained websites
+- perl.org, metacpan.org, and other community-maintained websites and services
 
 - Perl conferences and events, except those sponsored directly by a
   governing group
