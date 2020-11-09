@@ -318,10 +318,10 @@ then may discuss the matter in advance of voting.
 Active Core Team members vote in favor or against the proposal.  Voting is
 performed anonymously.
 
+=back
+
 For a Membership Change Vote, each phase will last one week.  For Amendment and
 No Confidence Votes, each phase will last two weeks.
-
-=back
 
 =head2 The Steering Council
 
