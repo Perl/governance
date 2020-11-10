@@ -5,6 +5,7 @@
 * Chad Granum
 * Chris 'BinGOs' Williams
 * Craig Berry
+* Dagfinn Ilmari Mannsåker
 * Dave Mitchell
 * David Golden
 * H. Merijn Brand
@@ -12,17 +13,17 @@
 * James E Keenan
 * Jan Dubois (inactive)
 * Jesse Vincent (inactive)
-* Karl Williamson
 * Karen Etheridge
+* Karl Williamson
 * Leon Timmermans
-* Nicholas Clark
-* Paul "LeoNerd" Evans
 * Matthew Horsfall
 * Max Maischein
+* Nicholas Clark
 * Nicolas R.
-* Philippe "BooK" Bruhat (inactive)
+* Paul "LeoNerd" Evans
+* Philippe "BooK" Bruhat
 * Ricardo Signes
 * Sawyer X
 * Steve Hay
-* Tony Cook
 * Todd Rinaldo
+* Tony Cook
