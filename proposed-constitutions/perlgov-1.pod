@@ -460,3 +460,65 @@ If the entire Steering Council is vacant or is the subject of a No Confidence
 Vote, then the Core Team will select a Vote Administrator by consensus.  If
 consensus cannot be reached within one week, the President of The Perl
 Foundation will select a Vote Administrator.
+
+=head1 Core Team Members
+
+The current members of the Perl Core Team are:
+
+=over
+
+=item * Abhijit Menon-Sen (inactive)
+
+=item * Andy Dougherty
+
+=item * Chad Granum
+
+=item * Chris 'BinGOs' Williams
+
+=item * Craig Berry
+
+=item * Dagfinn Ilmari Mannsåker
+
+=item * Dave Mitchell
+
+=item * David Golden
+
+=item * H. Merijn Brand
+
+=item * Hugo van der Sanden
+
+=item * James E Keenan
+
+=item * Jan Dubois (inactive)
+
+=item * Jesse Vincent (inactive)
+
+=item * Karen Etheridge
+
+=item * Karl Williamson
+
+=item * Leon Timmermans
+
+=item * Matthew Horsfall
+
+=item * Max Maischein
+
+=item * Nicholas Clark
+
+=item * Nicolas R.
+
+=item * Paul "LeoNerd" Evans
+
+=item * Philippe "BooK" Bruhat
+
+=item * Ricardo Signes
+
+=item * Sawyer X
+
+=item * Steve Hay
+
+=item * Todd Rinaldo
+
+=item * Tony Cook
+
+=back
