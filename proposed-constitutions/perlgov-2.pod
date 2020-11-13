@@ -520,6 +520,8 @@ The current members of the Perl Core Team are:
 
 =item * Steve Hay
 
+=item * Stuart Mackintosh
+
 =item * Todd Rinaldo
 
 =item * Tony Cook
