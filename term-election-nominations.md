@@ -12,3 +12,5 @@
 **Todd Rinaldo** nominated by Nicolas Rochelemagne
 
 **Leon Timmermans** nominated by Nicholas Clark
+
+**Paul Evans** nominated by himself
